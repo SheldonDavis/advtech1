@@ -1,0 +1,13 @@
+html{background:#000;}
+body{background:#ccf;width:70%;padding:1em;}
+h1{background:#333;width:70%;padding:1em;
+	color:#ccf;}
+div{
+	width:200px;
+	height:200px;
+	border:solid red 5px;
+	transition:width .2s ease-out;
+	-webkit-transition: width .2s ease-out;
+}
+
+.state2{width:500px;}
